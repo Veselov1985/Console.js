@@ -3,7 +3,6 @@ window.onload= function () {
 
     var consol = this.consol = this.$$$ = (function () {
 
-
         function Console() {
             this.count=0;
             this.id=[];
